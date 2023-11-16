@@ -1,0 +1,25 @@
+{
+  "name": "global-session",
+  "version": "0.0.1",
+  "description": "Wide area consensus based gossiper of live sessions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/copious-world/global-session.git"
+  },
+  "keywords": [
+    "session",
+    "consensus",
+    "gossip",
+    "expanders"
+  ],
+  "author": "R. Leddy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/copious-world/global-session/issues"
+  },
+  "homepage": "https://github.com/copious-world/global-session#readme"
+}
